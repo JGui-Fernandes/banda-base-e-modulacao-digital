@@ -1,6 +1,6 @@
 # Atividade 12: Codificação de Banda Base e Modulação Digital
 
-Projeto em Java da Atividade 13 da disciplina de Redes de Computadores (UNISINOS, prof. Cristiano Bonato Both). Ele simula a transmissão de uma sequência binária com codificação de banda base e modulação digital, aplica ruído gaussiano e gera gráficos e uma tabela de BER.
+Projeto em Java da Atividade 12 da disciplina de Redes de Computadores (UNISINOS, prof. Cristiano Bonato Both). Ele simula a transmissão de uma sequência binária com codificação de banda base e modulação digital, aplica ruído gaussiano e gera gráficos e uma tabela de BER.
 
 ## O que o projeto faz
 
